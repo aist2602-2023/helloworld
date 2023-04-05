@@ -1,1 +1,1 @@
-## Go to the "Issues" tab and create an issue to say hi to your classmates. 👋
+## Go to the "Issues" tab to say hi to your classmates. 👋
